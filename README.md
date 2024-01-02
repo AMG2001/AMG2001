@@ -68,8 +68,8 @@
   </tbody> 
 </table>
 <hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mavicasoftwaredev&show_icons=true&locale=en&layout=compact" alt="mavicasoftwaredev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amg2001&show_icons=true&locale=en&layout=compact" alt="mavicasoftwaredev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mavicasoftwaredev&show_icons=true&locale=en" alt="mavicasoftwaredev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amg2001&show_icons=true&locale=en" alt="mavicasoftwaredev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mavicasoftwaredev&" alt="mavicasoftwaredev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amg2001&" alt="mavicasoftwaredev" /></p>
