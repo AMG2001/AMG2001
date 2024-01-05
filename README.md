@@ -51,12 +51,12 @@
        <tr>
       <td>
      <h3>Description :</h3>
-    - Taken within 2 months Java SE 8 internship in Global Academy in Elmohndseen in Giza - the costs of Exam were voucher from ministry of Communications and Telecom - EG.<br>
+    - Taken After 2 months internship in Giza Global Academy "ORACLE Certified Partener in EGYPT".<br>
      </p>
       </td>
      <td>
      <h3>Description :</h3>
-     - Taken after 4 months of work as Flutter instructor for over 50 student in Google Development Student Club in Computer Science , Mounofia.<br>
+     - Taken after 4 months of work as Flutter instructor for over 50 student in Google Development Student Club in Faculty of Computer Science , Mounofia.<br>
      </p>
       </td>
        <td>
