@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to be a collaborator in YoBus Org . **YoBus**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MavicaSoftwareDev](https://github.com/AMG2001)
+- 👨‍💻 All of my projects are available at [https://github.com](https://github.com/AMG2001)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-amgad-239114159/](https://www.linkedin.com/in/mohamad-amgad-239114159/)
 
