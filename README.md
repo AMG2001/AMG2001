@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working as Mobile Developer @ MA_Group Consultation Company [MA_Group](https://play.google.com/store/apps/details?id=tech.amg.ag_group.ag_group)
 
-- 🌱 I’m currently learning Java Backend **"Java SE , Java EE - Spring core - Spring boot , Hibernate , SJF ".**
+- 🌱 I’m currently learning Java Enterprise Web Development **"Java SE , Java EE - Spring core - Spring boot , Hibernate , SJF ".**
 
 - 👯 I’m looking to be a collaborator in YoBus Org . **YoBus**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MavicaSoftwareDev](https://github.com/MavicaSoftwareDev)
+- 👨‍💻 All of my projects are available at [https://github.com/MavicaSoftwareDev](https://github.com/AMG2001)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-amgad-239114159/](https://www.linkedin.com/in/mohamad-amgad-239114159/)
 
