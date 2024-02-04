@@ -2,19 +2,19 @@
 <h3 align="center">A Passionate Software Engineer - Mobile Developer @MA_Group & ITI 9 Month Trainee Java Backend Software Engineer</h3>
 
 
-- 🔭 I’m currently working as Mobile Developer @ MA_Group Consultation Company [MA_Group](https://play.google.com/store/apps/details?id=tech.amg.ag_group.ag_group)
+- 🔭 I’m currently working as Java Enterprise web Development Trainee @ITI Smart Village - 9 Months Program .
 
-- 🌱 I’m currently learning Java Enterprise Web Development **"Java SE , Java EE - Spring core - Spring boot , Hibernate , SJF ".**
-
-- 👯 I’m looking to be a collaborator in YoBus Org . **YoBus**
+- 🌱 I’m currently learning Java EWD **"Java SE , Java EE - Spring core - Spring boot , Hibernate , SJF ".**
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com/AMG2001)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-amgad-239114159/](https://www.linkedin.com/in/mohamad-amgad-239114159/)
 
-- 💬 Ask me about **Flutter & Dart & MongoDB & Firebase & Sqflite & Hive & Java SE .**
+- 💬 Ask me about **Flutter & Dart & Java SE & Java EE**.
 
 - 📫 How to reach me **mohamadamgad09@gmail.com**
+
+- 📶 Phone Number : +201096482183.
 
 
 <h3 align="left">Connect with me:</h3>
