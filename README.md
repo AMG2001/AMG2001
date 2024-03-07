@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Mohamad Amgad</h1>
-<h3 align="center">A Passionate Software Engineer - Mobile Developer @MA_Group & ITI 9 Month Trainee Java Backend Software Engineer</h3>
+<h1 align="center">Hello Dears 👋, I'm Mohamad Amgad</h1>
+<h3 align="center">A Passionate Software Engineer - Mobile Developer @MA_Group & Java Enterprise Web Development Trainee @ ITI 9 Month - Smart Village </h3>
 
 
-- 🔭 I’m currently working as Java Enterprise web Development Trainee @ITI Smart Village - 9 Months Program .
+- 🔭 I’m currently working as Java Enterprise web Development Trainee @ITI .
 
-- 🌱 I’m currently learning Java EWD **"Java SE , Java EE - Spring core - Spring boot , Hibernate , SJF ".**
+- 🌱 I’m currently learning **Java EE - Spring core - Spring boot , Hibernate , SJF ".**
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com/AMG2001)
 
