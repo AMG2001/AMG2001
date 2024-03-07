@@ -1,10 +1,10 @@
 <h1 align="center">Hello Dears 👋, I'm Mohamad Amgad</h1>
-<h3 align="center">A Passionate Software Engineer - Mobile Developer @MA_Group & Java Enterprise Web Development Trainee @ ITI 9 Month - Smart Village </h3>
+<h3 align="center">Java Engineer - Java Enterprise Web Development Trainee @ ITI 9 Month & OCA Certified 📜 . </h3>
 
 
-- 🔭 I’m currently working as Java Enterprise web Development Trainee @ITI .
+- 🔭 Currently Studying Java EE & Spring Framework .
 
-- 🌱 I’m currently learning **Java EE - Spring core - Spring boot , Hibernate , SJF ".**
+- 🌱 Seeking to pass OCP "ORACLE Certified professional Exam ".
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com/AMG2001)
 
