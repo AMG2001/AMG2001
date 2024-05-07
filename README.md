@@ -1,11 +1,13 @@
 <h1 align="center">Hello Dears 👋, I'm Mohamad Amgad</h1>
-<h3 align="center">Java Engineer - Java Enterprise Web Development Trainee @ ITI 9 Month & OCA "ORACLE Certified Associate" 📜 . </h3>
+<h3 align="center">Software Engineer - Java Developer  . </h3>
 
-- 🔭 Currently Studying Java Backend - Spring Framework @ ITI "Information Technology Institute" - Smart Vil Branch .
+- 🔭 Currently Studying ( Java SE || Java EE || Spring ) @ ITI - Smart Village Branch .
+
+- OCA "ORACLE Certified Associate" 🏆 . 
 
 - 🌱 Seeking to pass OCP "ORACLE Certified Professional".
 
-- 👨‍💻 All of my projects are available at [https://github.com](https://github.com/AMG2001)
+- 👨‍💻 All of my projects are available at [https://github.com/AMG2001](https://github.com/AMG2001)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-amgad-239114159/](https://www.linkedin.com/in/mohamad-amgad-239114159/)
 
@@ -14,6 +16,8 @@
 - 📫 How to reach me **mohamadamgad09@gmail.com**
 
 - 📶 Phone Number : +201096482183.
+
+- My CV : [Show_CV📃](https://drive.google.com/file/d/1TRlYfTLeUI0_PrkdSNmnD7Il4Yo6BxkY/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
